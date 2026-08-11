@@ -1,9 +1,9 @@
 ---
-title: Introduction to Java
+title: Properties of the Tropical Atmosphere
 ---
 
 Sep 28
-: [Java & Git](#)
+: [Scales of Motion and Thermodynamics](#)
   : [1.1](#)
 
 Sep 29
