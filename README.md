@@ -10,13 +10,11 @@ seo:
 
 # Introduction To Tropical Meteorology
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+This course examines the physical and dynamical processes governing the tropical atmosphere. Emphasis is placed on connecting fundamental theory—including energy balances, moist thermodynamics, vorticity dynamics, wave dynamics, and atmosphere–ocean coupling—to observations of tropical circulations and weather systems.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+Major topics include radiative–convective equilibrium, the Hadley circulation, equatorial waves, the Madden–Julian oscillation, tropical synoptic-scale disturbances, monsoons, tropical cyclones, and the El Niño–Southern Oscillation.
 
+Students will develop theoretical understanding, quantitative problem-solving skills, and experience analyzing satellite, reanalysis, and tropical cyclone datasets.
 
 
 ## Getting Started
