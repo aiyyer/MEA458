@@ -23,6 +23,9 @@ Major topics include radiative–convective equilibrium, the Hadley circulation,
 
 Students will develop theoretical understanding, quantitative problem-solving skills, and experience analyzing satellite, reanalysis, and tropical cyclone datasets.
 
+
+## Syllabus
+[Syllabus](https://webappprd.acs.ncsu.edu/php/coursecat/syllabus.php?strm=2268&class_nbr=8941)
 ## Lectures
 
 
