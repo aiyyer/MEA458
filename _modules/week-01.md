@@ -1,23 +1,20 @@
 ---
-title: Properties of the Tropical Atmosphere
+title: Module 1: Properties of the Tropical Atmosphere
 ---
 
-Sep 28
-: [Scales of Motion and Thermodynamics](#)
-  : [1.1](#)
+Aug 18
+: Introductions
+: Time Mean State of the Tropical Atmosphere
+  : [Notes](#)  [Presentation](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
+Aug 20
+: Scales of Tropical Fields
+: **Activity**{: .label .label-purple }[Scale Analysis](#)
   : [Solution](#)
 
-Sep 30
+Aug 25
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
+Aug 27 1
 : **HW 1 due**{: .label .label-red }
