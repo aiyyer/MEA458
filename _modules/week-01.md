@@ -6,7 +6,7 @@ Aug 18
 : Introductions
 : Time Mean State of the Tropical Atmosphere
   : [Notes](#)
-  : [Presentation](#)
+    : [Presentation](#)
 
 Aug 20
 : Scales of Tropical Fields
