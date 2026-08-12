@@ -8,5 +8,6 @@ Oct 5
 
 Oct 5
 : Environmental Conditions 
-  : [Presentation](../assets/TropicalCourse.pdf) | Notes |
+  : [Presentation](../assets/TropicalCourse.pdf) 
+    : Notes 
 
