@@ -11,10 +11,3 @@ Aug 20
 : Scales of Tropical Fields
 : **Activity**{: .label .label-purple }[Scale Analysis](#)
   : [Solution](#)
-
-Aug 25
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Aug 27 1
-: **HW 1 due**{: .label .label-red }
