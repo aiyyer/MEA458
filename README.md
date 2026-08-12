@@ -17,9 +17,7 @@ Major topics include radiative–convective equilibrium, the Hadley circulation,
 Students will develop theoretical understanding, quantitative problem-solving skills, and experience analyzing satellite, reanalysis, and tropical cyclone datasets.
 
 
+
+![Sep 17, 2025](./assets/images/sep18_2025.png)
+
 ## Getting Started
-
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
