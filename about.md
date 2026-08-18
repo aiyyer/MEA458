@@ -26,12 +26,13 @@ Students will develop theoretical understanding, quantitative problem-solving sk
 
 ## Syllabus
 [Syllabus](https://webappprd.acs.ncsu.edu/php/coursecat/syllabus.php?strm=2268&class_nbr=8941)
-## Lectures
 
 
 ## Resources
 
+- [NOAA PSD Plotting tool](https://psl.noaa.gov/data/getpage/)
 
 ## Assignments
 
+Coming soon
 
