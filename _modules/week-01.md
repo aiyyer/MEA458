@@ -5,6 +5,8 @@ title: Module 1 - Properties of the Tropical Atmosphere
 Aug 18
 : Introductions
 : Class Organization & Expectations
+: Warm up Class Activity
+: Instructions for next class
 
 Aug 20
 : Time Mean State of the Tropical Atmosphere
