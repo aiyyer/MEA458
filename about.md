@@ -33,6 +33,7 @@ Students will develop theoretical understanding, quantitative problem-solving sk
 - [NOAA PSD Plotting tool](https://psl.noaa.gov/data/getpage/)
 - [EUMETSAT earth view](https://view.eumetsat.int/productviewer?v=default)
 - [NOAA GOES Image viewer](https://www.star.nesdis.noaa.gov/goes/)
+- [Copernicus Interactive Climate Atlas](https://atlas.climate.copernicus.eu/atlas)
 
 ## Assignments
 
