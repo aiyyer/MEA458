@@ -1,5 +1,5 @@
 ---
-title: Module 3: Equatorial Waves
+title: Module 3 \: Equatorial Waves
 ---
 
 Oct 5
