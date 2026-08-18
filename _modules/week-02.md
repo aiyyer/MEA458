@@ -1,5 +1,5 @@
 ---
-title: Tropical Cyclones
+title: Module 2: Tropical Cyclones
 ---
 
 Oct 5
