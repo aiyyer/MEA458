@@ -1,9 +1,12 @@
 ---
-title: Equatorial Waves
+title: Module 3: Equatorial Waves
 ---
 
 Oct 5
-: Environmental Conditions 
+: Basic Wave Properties
+  : [Presentation](#) 
+    : Notes 
+: Survey of Waves Near the Equator 
   : [Presentation](#) 
     : Notes 
 
