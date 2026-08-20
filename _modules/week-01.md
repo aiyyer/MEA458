@@ -15,7 +15,4 @@ Aug 20
 : Time Mean State of the Tropical Atmosphere
   : [Notes](#)
     : [Presentation](../assets/Mean_State_Tropical_Atmosphere.pdf)
-    
-: Scales of Tropical Fields
-: **Activity**{: .label .label-purple }[Scale Analysis](#)
-  : [Solution](#)
+
