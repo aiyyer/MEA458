@@ -18,6 +18,8 @@ Aug 20
 
 Aug 25
 : Time Mean State of the Tropical Atmosphere (contd.)
+
 : [Presentation](../assets/Mean_State_Tropical_Atmosphere.pdf)
   : [Class Notes](../assets/Mean_State_Tropical_Atmosphere_Class_Notes.pdf)  
+  
 : [Basic Scale Analysis](../assets/Scale_analysis_Tropical_Atmosphere.pdf)
