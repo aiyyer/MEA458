@@ -24,5 +24,4 @@ Aug 25
   : [Class Notes](../assets/Mean_State_Tropical_Atmosphere_Class_Notes.pdf)  
 
 : Scale Analysis Of Basic Tropical Fields
-: [Presentation](../assets/Scales_of_Motion.pdf)
-  : [Class Notes](../assets/Scales_of_Motion_Class_Notes.pdf) 
+  : [Class Notes](../assets/Tropical_Atmosphere_Scaling_Class_Notes.pdf)
