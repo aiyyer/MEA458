@@ -2,14 +2,8 @@
 title: Module 2 - Tropical Cyclones
 ---
 
-Aug 27
-: [Global Distribution & Interannual Variability](#)
-  : Notes
-    : Presentation
-: [Environmental Conditions For Genesis](#)
-  : Notes
-    : Presentation
-
-Sep 1
-
 Sep 3
+: Climatological Conditions for Cyclogenesis
+  : Notes
+    : [Presentation]{../assets/Tropical_Cyclone_Climatological_Conditions.pdf}
+
