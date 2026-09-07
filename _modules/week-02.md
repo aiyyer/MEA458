@@ -12,5 +12,5 @@ Sep 7
   : Assignment 1 announced (please see moodle for the assignment and uploading instructions)
   : Tropical Cyclone Formation
      : [Presentation](../assets/Tropical_Cyclone_Formation.pdf)
-      : [Class Notes](../assets/Tropical_Cyclone_Formation_Class_Notes.pdf)  
+        : [Class Notes](../assets/Tropical_Cyclone_Formation_Class_Notes.pdf)  
   
