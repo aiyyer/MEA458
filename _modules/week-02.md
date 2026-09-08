@@ -11,6 +11,6 @@ Sep 7
   : Wrap up remaining material from last class
   : Assignment 1 announced (please see moodle for the assignment and uploading instructions)
   : Tropical Cyclone Formation
-     : [Presentation](../assets/Tropical_Cyclone_Formation.pdf)
-        : [Class Notes](../assets/Tropical_Cyclone_Formation_Class_Notes.pdf)  
+     : [Presentation](../assets/Tropical_Cyclone_Formation_PartI.pdf)
+        : [Class Notes](../assets/Tropical_Cyclone_Formation_Class_Notes_PartI.pdf)  
   
