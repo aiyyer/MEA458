@@ -21,4 +21,13 @@ Sep 14
   : Tropical Cyclone Formation Part II
      : [Presentation](../assets/Tropical_Cyclone_Formation_PartII.pdf)
         : [Class Notes](../assets/Tropical_Cyclone_Formation_Class_Notes_PartII.pdf)  
+
+Sep 17
+  : Exam 1
+  
+Sep 22
+  : Tropical Cyclone Potential Intensity Theory
+     : [Presentation](../assets/Tropical_Cyclone_Max_Potential_Intensity.pdf)
+        : [Class Notes](../assets/Tropical_Cyclone_Max_Potential_Intensity_Class_Notes.pdf)  
+
   
