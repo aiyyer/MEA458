@@ -23,7 +23,7 @@ Sep 14
         : [Class Notes](../assets/Tropical_Cyclone_Formation_Class_Notes_PartII.pdf)  
 
 Sep 17
-  : Exam 1
+  : Exam 1{: .label .label-red }
   
 Sep 22, 24
   : Tropical Cyclone Potential Intensity Theory
@@ -35,4 +35,4 @@ Sep 29
 
 Sep 29
   : Wrap up TC Potential Intensity and begin discussion of Hurricane Structure
-  : Assignment 2 (See moodle)
+    : Assignment 2 (See moodle){: .label .label-red }
