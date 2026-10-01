@@ -25,9 +25,14 @@ Sep 14
 Sep 17
   : Exam 1
   
-Sep 22
+Sep 22, 24
   : Tropical Cyclone Potential Intensity Theory
      : [Presentation](../assets/Tropical_Cyclone_Max_Potential_Intensity.pdf)
         : [Class Notes](../assets/Tropical_Cyclone_Max_Potential_Intensity_Class_Notes.pdf)  
 
-  
+Sep 29
+  : Wellness day (no class)
+
+Sep 29
+  : Wrap up TC Potential Intensity and begin discussion of Hurricane Structure
+  : Assignment 2 (See moodle)
