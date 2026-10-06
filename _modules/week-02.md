@@ -33,6 +33,12 @@ Sep 22, 24
 Sep 29
   : Wellness day (no class)
 
-Sep 29
+Oct 1
   : Wrap up TC Potential Intensity and begin discussion of Hurricane Structure
-    : Assignment 2 (See moodle){: .label .label-red }
+    : Assignment 2 (See moodle)
+
+
+Oct 6
+  : Tropical Cyclone Structure
+     : [Presentation](../assets/TC_structure.pdf)
+        : [Class Notes](../assets/TC_structure_Class_Notes.pdf)  
