@@ -42,3 +42,8 @@ Oct 6
   : Tropical Cyclone Structure
      : [Presentation](../assets/TC_structure.pdf)
         : [Class Notes](../assets/TC_structure_Class_Notes.pdf)  
+
+Oct 13
+  : Forced Secondary Circulation and the Sawyer-Eliasen Balanced Response
+     : [Presentation](../assets/SE_Equation.pdf)
+        : [Class Notes](../assets/SE_equation_Class_activity.pdf)
