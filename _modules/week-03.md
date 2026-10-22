@@ -8,12 +8,11 @@ Oct 20
 
 Oct 22
 : Basic Wave Properties
- : [Presentation](../assets/basic_wave_properties.pdf)
-  : [Activity Sheet](../assets/basic_wave_properties_activity.pdf)
+ : [Presentation](../assets/waves_basic_notes.pdf)
 
 
 : Survey of Waves Near the Equator 
- : [Presentation](../assets/SE_Equation.pdf)
-  : [Activity Sheet](../assets/SE_Equation_activity.pdf)
+ : [Presentation](../assets/Equatorial_Waves_Survey_Presentation.pdf)
+  : [Activity Sheet](../assets/Equatorial_Waves_Survey_activity.pdf)
 
  
