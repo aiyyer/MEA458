@@ -47,3 +47,6 @@ Oct 13
   : Forced Secondary Circulation and the Sawyer-Eliasen Balanced Response
      : [Presentation](../assets/SE_Equation.pdf)
         : [Class Notes](../assets/SE_equation_Class_activity.pdf)
+
+Oct 15
+  : Sick (no class)
