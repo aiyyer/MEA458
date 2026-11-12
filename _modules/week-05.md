@@ -13,7 +13,7 @@ Nov 9
 Nov 12
 : Hadley circulation
 : [Presentation](../assets/hadley_presentation.pdf)
-   [Class Activity](hadley_class_activity.pdf)
+   : [Class Activity](hadley_class_activity.pdf)
 
 : Some resources
     -[Roger Smith's notes on Hadley Circulation](https://www.meteo.physik.uni-muenchen.de/~roger/Lectures/TropicalMetweb/TropicalMeteorology_Ch5.html)
